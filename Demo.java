@@ -1,4 +1,4 @@
-void area(int i){
+void area(int i,int j){
 }
 void area2(float f){
 }
