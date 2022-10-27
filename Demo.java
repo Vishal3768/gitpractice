@@ -1,6 +1,6 @@
-void area(int i){
+void area(int i,int j){
 }
-void area2(){
+void area2(float f){
 }
-void area3(){
+void area3(int i){
 }
